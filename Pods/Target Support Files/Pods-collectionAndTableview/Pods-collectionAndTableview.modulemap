@@ -1,0 +1,6 @@
+framework module Pods_collectionAndTableview {
+  umbrella header "Pods-collectionAndTableview-umbrella.h"
+
+  export *
+  module * { export * }
+}
